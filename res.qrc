@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Pacman_Introduction_Music-KP-826387403.mp3</file>
+    </qresource>
+</RCC>
